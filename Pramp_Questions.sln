@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "H_Tree", "H_Tree\H_Tree.vcxproj", "{EAA1408A-0D11-46A4-81EF-7B38FC46AE66}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberRounding", "NumberRounding\NumberRounding.vcxproj", "{9D1B0C45-6304-4EE3-A4B2-F1D150CD2DEB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeletionDistance", "DeletionDistance\DeletionDistance.vcxproj", "{9AE547CC-E5E1-4815-B4EB-9288A39C3AA6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntegralImage", "IntegralImage\IntegralImage.vcxproj", "{23035F9C-9985-4150-86B1-F8546A92976D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,8 +133,19 @@ Global
 		{9AE547CC-E5E1-4815-B4EB-9288A39C3AA6}.Release|x64.Build.0 = Release|x64
 		{9AE547CC-E5E1-4815-B4EB-9288A39C3AA6}.Release|x86.ActiveCfg = Release|Win32
 		{9AE547CC-E5E1-4815-B4EB-9288A39C3AA6}.Release|x86.Build.0 = Release|Win32
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Debug|x64.ActiveCfg = Debug|x64
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Debug|x64.Build.0 = Debug|x64
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Debug|x86.ActiveCfg = Debug|Win32
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Debug|x86.Build.0 = Debug|Win32
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Release|x64.ActiveCfg = Release|x64
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Release|x64.Build.0 = Release|x64
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Release|x86.ActiveCfg = Release|Win32
+		{23035F9C-9985-4150-86B1-F8546A92976D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22377866-4640-4D31-B043-476FA55928CF}
 	EndGlobalSection
 EndGlobal
